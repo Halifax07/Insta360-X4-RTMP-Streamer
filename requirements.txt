@@ -1,0 +1,6 @@
+opencv-python>=4.5.0
+numpy>=1.20.0
+ffmpeg-python
+opencv-contrib-python
+websocket-client
+requests 

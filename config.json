@@ -1,0 +1,20 @@
+{
+    "camera": {
+        "index": 0,
+        "width": 1920,
+        "height": 960,
+        "fps": 30
+    },
+    "rtmp": {
+        "url": "rtmp://127.0.0.1:1935/live/livestream",
+        "width": 3840,
+        "height": 1920,
+        "fps": 30,
+        "bitrate": "4000k"
+    },
+    "processing": {
+        "brightness_equalization": true,
+        "color_balance": true,
+        "overlap_width_percent": 10
+    }
+} 
